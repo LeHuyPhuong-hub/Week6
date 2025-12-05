@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Threat Model 1",
+    "owner": "Huy Phuong",
+    "description": "First Threat Model",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "WebApp",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "lecturer",
+    "threatTop": 0
+  }
+}
